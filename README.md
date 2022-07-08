@@ -7,6 +7,6 @@ Often while surfing the net we come across positive news or feedback about a com
 StockInfo extension allows the to have a quick glance at the financial situation and recent performance of the comapny to help make good investing decisions.
 
 ## Metrics Displayed
-Name,Current Price,Income,PE,Annual Revenue,EBITDA,EPS,Assets,Liabilities,Yearly Dividend Yield.
+Name,Current Price, Income, PE ratio, Annual Revenue, EBITDA, EPS, Assets, Liabilities, Yearly Dividend Yield.
 
 
